@@ -1,4 +1,4 @@
-<H2>Hi, I’m @Alexander CD</h2>
+<H2>Hi, I’m Alexander CD</h2>
 <ul>
 	<li>
 		🔭 I’m currently working on <a href="https://www.gconsultores.com.mx/" rel="nofollow">Grupo Consultores</a>
