@@ -7,6 +7,9 @@
 		🌱 I make videos on my <a href="https://www.youtube.com/channel/UCmXXKj2lTr8J1zh3KCTj2XQ?sub_confirmation=1" rel="nofollow">Youtube Channel</a>
 	</li>
 	<li>
+		🌱 I make videos on my <a href="https://www.tiktok.com/@alexandercds?lang=es" rel="nofollow">TikTok</a>
+	</li>
+	<li>
 		👀 I’m interested in genetic algorithms
 	</li>
 </ul>
