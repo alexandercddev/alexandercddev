@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/AlexanderCDs/hooks-app/master/src/assets/images/github.jpg "Header")](https://www.youtube.com/channel/UCmXXKj2lTr8J1zh3KCTj2XQ?sub_confirmation=1)
+[![Header](https://raw.githubusercontent.com/alexandercddev/alexandercddev/main/banner-github.jpg "Header")](https://www.youtube.com/channel/UCmXXKj2lTr8J1zh3KCTj2XQ?sub_confirmation=1)
 
 ## 👉 About me
 I am **Web Developer**, I currently work as a jr consultant but work web developer (frontend and backend). In my free time I am creator content in [TikTok](https://www.tiktok.com/@alexandercds), [Instagram](https://www.instagram.com/alexandercds.cs/?hl=es-la), [Twitch](https://twitch.tv/arthurreset), I make Live Code in channel [Twitch](https://twitch.tv/arthurreset).
@@ -59,19 +59,19 @@ I am **Web Developer**, I currently work as a jr consultant but work web develop
 ## Organizations
 
 <div style="display:flex">
-    <a aria-label="Codigo-bits-Student-Ambassadors" href="https://github.com/Codigo-bits-Student-Ambassadors">
+    <a aria-label="Codigo-bits-Student-Ambassadors" href="/Codigo-bits-Student-Ambassadors">
         <img style="border-radius: 50%" height="50" width="50" alt="@Codigo-bits-Student-Ambassadors" src="https://avatars.githubusercontent.com/u/91921077?s=180&amp;v=4">
     </a>
     <div style="display:flex; align-items:center; margin-left: 10px">
-        <a href="https://github.com/Codigo-bits-Student-Ambassadors">Student Ambassadors Código bits </a>
+        <a href="/Codigo-bits-Student-Ambassadors">Student Ambassadors Código bits </a>
     </div>
 </div>
 
 <div style="display:flex">
-    <a aria-label="Byters-Creadores-de-contenido" href="https://github.com/Byters-Creadores-de-contenido">
+    <a aria-label="Byters-Creadores-de-contenido" href="/Byters-Creadores-de-contenido">
         <img style="border-radius: 50%" height="50" width="50" alt="@Byters-Creadores-de-contenido" src="https://avatars.githubusercontent.com/u/91903111?s=180&v=4">
     </a>
     <div style="display:flex; align-items:center; margin-left: 10px">
-        <a href="https://github.com/Byters-Creadores-de-contenido">Byters</a>
+        <a href="/Byters-Creadores-de-contenido">Byters</a>
     </div>
 </div>
