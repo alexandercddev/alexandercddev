@@ -59,19 +59,19 @@ I am **Web Developer**, I currently work as a jr consultant but work web develop
 ## Organizations
 
 <div style="display:flex">
-    <a aria-label="Codigo-bits-Student-Ambassadors" href="/Codigo-bits-Student-Ambassadors">
+    <a aria-label="Codigo-bits-Student-Ambassadors" href="https://github.com/Codigo-bits-Student-Ambassadors">
         <img style="border-radius: 50%" height="50" width="50" alt="@Codigo-bits-Student-Ambassadors" src="https://avatars.githubusercontent.com/u/91921077?s=180&amp;v=4">
     </a>
     <div style="display:flex; align-items:center; margin-left: 10px">
-        <a href="/Codigo-bits-Student-Ambassadors">Student Ambassadors Código bits </a>
+        <a href="https://github.com/Codigo-bits-Student-Ambassadors">Student Ambassadors Código bits </a>
     </div>
 </div>
 
 <div style="display:flex">
-    <a aria-label="Byters-Creadores-de-contenido" href="/Byters-Creadores-de-contenido">
+    <a aria-label="Byters-Creadores-de-contenido" href="https://github.com/Byters-Creadores-de-contenido">
         <img style="border-radius: 50%" height="50" width="50" alt="@Byters-Creadores-de-contenido" src="https://avatars.githubusercontent.com/u/91903111?s=180&v=4">
     </a>
     <div style="display:flex; align-items:center; margin-left: 10px">
-        <a href="/Byters-Creadores-de-contenido">Byters</a>
+        <a href="https://github.com/Byters-Creadores-de-contenido">Byters</a>
     </div>
 </div>
