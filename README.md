@@ -1,63 +1,29 @@
 [![Header](https://raw.githubusercontent.com/alexandercddev/alexandercddev/main/banner-github.jpg "Header")](https://www.youtube.com/channel/UCmXXKj2lTr8J1zh3KCTj2XQ?sub_confirmation=1)
 
-## 👉 About me
-I am **Web Developer**, I currently work as a jr consultant but work web developer (frontend and backend). In my free time I am creator content in [TikTok](https://www.tiktok.com/@alexandercds), [Instagram](https://www.instagram.com/alexandercds.cs/?hl=es-la), [Twitch](https://twitch.tv/arthurreset), I make Live Code in channel [Twitch](https://twitch.tv/arthurreset).
+<h3 align="">👉 About me - A passionate frontend developer from México</h3>
+<p>I am **Web Developer**, I currently work as a jr consultant but work web developer (frontend and backend). In my free time I am creator content in [TikTok](https://www.tiktok.com/@alexandercds), [Instagram](https://www.instagram.com/alexandercds.cs/?hl=es-la), [Twitch](https://twitch.tv/arthurreset), I make Live Code in channel [Twitch](https://twitch.tv/arthurreset).<p/>
+
+<p align="left"> <a href="https://twitter.com/alexandercddev" target="blank"><img src="https://img.shields.io/twitter/follow/alexandercddev?logo=twitter&style=for-the-badge" alt="alexandercddev" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://www.alexandercd.dev/projects](https://www.alexandercd.dev/projects)
+
+- 💬 Ask me about **react, javascript, sql**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/alexandercddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alexandercddev" height="30" width="40" /></a>
+<a href="https://twitter.com/alexandercddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexandercddev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexandercddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandercddev" height="30" width="40" /></a>
+<a href="https://fb.com/alexandercddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexandercddev" height="30" width="40" /></a>
+<a href="https://instagram.com/alexandercddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandercddev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/alexandercddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alexandercddev" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 ## Cafecito
 [![Invitame un café en cafecito.app](https://cdn.cafecito.app/imgs/buttons/button_1.svg)](https://cafecito.app/alexandercddev)
-
-## 🖼️ My favorite post [Instagram](https://www.instagram.com/alexandercds.cs/?hl=es-la)
-<div>
-    <blockquote style="border-color: #e43f5d"> 
-        <a href="https://www.instagram.com/p/CUm_l-CtBaG/" target="_blank"> 
-            <b>Conditional Rendering</b>
-        </a>
-    </blockquote>
-</div>
-
-<div>
-    <blockquote style="border-color: #e43f5d">  
-        <a href="https://www.instagram.com/p/CUh2AYstFju/">
-            <b>The challenges I solved last week 3th from the 50 webs and frontend exercises.</b>
-        </a>
-    </blockquote>
-</div>
-
-<div>
-    <blockquote style="border-color: #e43f5d"> 
-        <a href="https://www.instagram.com/p/CUcli4gFiUZ/" target="_blank">
-            <b>Handling Events</b>
-        </a>
-    </blockquote>
-</div>
-
-<div>
-    <blockquote style="border-color: #e43f5d">  
-        <a href="https://www.instagram.com/p/CUaAv7CloeS/" target="_blank">
-            <b>React Fragment</b>
-        </a>
-    </blockquote>
-</div>
-
-## 📹 My favorite post [TikTok](https://www.tiktok.com/@alexandercds)
-
-<div>
-    <blockquote style="border-color: #ee1b50">  
-        <a href="https://www.tiktok.com/@alexandercds/video/7011150290338565381?is_copy_url=1&is_from_webapp=v1" target="_blank">
-            <b> Coding React </b>
-        </a>
-    </blockquote>
-</div>
-
-<div>
-    <blockquote style="border-color: #ee1b50"> 
-        <a href="https://www.tiktok.com/@alexandercds/video/6995985988250012934?is_copy_url=1&is_from_webapp=v1" target="_blank">
-            <b>
-                Jest
-            </b>
-        </a>
-    </blockquote>
-</div>
 
 ## Organizations
 
